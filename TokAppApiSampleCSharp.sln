@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TokappAPIClient", "TokappAPIClient\TokappAPIClient.csproj", "{58B341B5-9B9D-4F5C-AA2A-E3051E75B85B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test", "test\test.csproj", "{9EF44580-5948-45B9-9D0B-20F8E74A146E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9B84021C-172F-49DC-AEF0-53C93617DD2E}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58B341B5-9B9D-4F5C-AA2A-E3051E75B85B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58B341B5-9B9D-4F5C-AA2A-E3051E75B85B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58B341B5-9B9D-4F5C-AA2A-E3051E75B85B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58B341B5-9B9D-4F5C-AA2A-E3051E75B85B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EF44580-5948-45B9-9D0B-20F8E74A146E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EF44580-5948-45B9-9D0B-20F8E74A146E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EF44580-5948-45B9-9D0B-20F8E74A146E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EF44580-5948-45B9-9D0B-20F8E74A146E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6AA6594F-06DD-4FB5-B7CB-FC007C482D18}
+	EndGlobalSection
+EndGlobal
